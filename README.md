@@ -58,6 +58,31 @@ Phase 4
 - Steam release
 
 ---
+## AI Assisted Development
+
+This project is developed with the help of AI tools.
+
+AI is used for:
+
+- Code generation
+- Architecture planning
+- Documentation
+- Research assistance
+- Debugging support
+- Rapid prototyping
+
+Human decisions remain responsible for design direction, integration, validation, and final implementation.
+
+The goal is not to replace development —
+but to accelerate experimentation and creativity.
+
+## Development Philosophy
+
+Cosmic Evolution is an experiment in collaborative creation between human imagination and AI-assisted development.
+
+Scientific inspiration.
+Human direction.
+AI acceleration.
 
 ## Contributing
 
