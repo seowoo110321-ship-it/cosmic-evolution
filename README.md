@@ -31,7 +31,6 @@ Guide a living universe and discover what emerges.
 - Evolution System
 - Civilization Growth
 - Multiplayer Universe
-- Steam Release
 
 ---
 
