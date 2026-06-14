@@ -13,29 +13,52 @@ Guide a living universe and discover what emerges.
 
 ## Features
 
-- ⭐ Star and galaxy formation
-- 🪐 Planet evolution
-- 🧬 Life and ecosystem simulation
-- 📜 Universe timeline and history
-- 🎵 Dynamic adaptive soundtrack
-- 🌌 Observation-focused gameplay
-- 🤝 Community-driven development
+⭐ Procedural Universe Generation  
+🪐 Planet Evolution  
+🧬 Life and Ecosystem Simulation  
+📜 Timeline and History System  
+🎵 Dynamic Adaptive Soundtrack  
+🌌 Observation Mode  
+🤝 Community-driven Development  
 
 ---
 
-## Planned Systems
-
-- Universe Generation
-- Physics Simulation
-- Planet Formation
-- Evolution System
-- Civilization Growth
-- Multiplayer Universe
-
----
-
-## Development Status
+## Current Development
 
 🚧 Early Development
 
-Contributors welcome.
+Current focus:
+
+- Universe Generation
+- Time Simulation
+- Observation Interface
+
+---
+
+## Planned
+
+Phase 1
+- Universe generation
+- Camera
+- Time controls
+- UI
+- Save system
+
+Phase 2
+- Stars
+- Planets
+- Ecosystems
+
+Phase 3
+- Civilizations
+- Multiplayer
+
+Phase 4
+- Optimization
+- Steam release
+
+---
+
+## Contributing
+
+Ideas, feedback and contributors are welcome.
